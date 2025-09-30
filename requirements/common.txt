@@ -11,3 +11,6 @@ django-taggit==6.1.0
 djangorestframework==3.16.1
 Faker==37.8.0
 tqdm==4.67.1
+pandas==2.3.3
+openpyxl==3.1.5
+wordcloud==1.9.4
